@@ -59,3 +59,18 @@ zigbeeManufacturer:
     manufacturer: _TZ3000_bguser20
     model: TS0201
     deviceProfileName: temp-humid-battery
+  - id: "_TYZB01_a476raq2/TS0201"
+    deviceLabel: Tuya TS0201
+    manufacturer: _TYZB01_a476raq2
+    model: TS0201
+    deviceProfileName: temp-humid-battery
+  - id: "_TZ3000_yd2e749y/TS0201"
+    deviceLabel: Tuya TS0201
+    manufacturer: _TZ3000_yd2e749y
+    model: TS0201
+    deviceProfileName: temp-humid-battery
+  - id: "CentraLite/3310-G"
+    deviceLabel: Temp Sensor 3310-G
+    manufacturer: CentraLite
+    model: 3310-G
+    deviceProfileName: temp-humid-battery

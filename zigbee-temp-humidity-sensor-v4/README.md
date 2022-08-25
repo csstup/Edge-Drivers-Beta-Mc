@@ -1,3 +1,12 @@
+## NEW RELEASE) Version 3.0 of Edge Beta Driver: Zigbee Temp Humidity Sensor Mc:
+
+Improvements:
+
+Added in preferences new offset settings for Atmospheric Pressure and Illuminance capabilities
+
+Added preference to use a single or multiple tile that shows all the capabilities of the device
+
+
 ## NEW RELEASE) New Version 2.5 of Edge Beta Driver: Zigbee Temp Humidity Sensor Mc:
 
 ## Improvements:
